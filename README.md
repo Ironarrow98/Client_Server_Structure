@@ -1,6 +1,4 @@
 Name: Chenxi Zhang
-Student ID: 20671033
-Quest ID: c462zhan
 
 Tested on Student environment in 2 different machines with Python
 
